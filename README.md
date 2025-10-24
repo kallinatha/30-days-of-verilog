@@ -73,6 +73,15 @@ I'd love to share my journey with you and connect with fellow Verilog enthusiast
 
 Join me as I explore the world of Verilog programming and digital circuits over the next 30 days. Let's explore, create, and learn together!
 
+## Additional Learning Resources
+
+Whether you're following along with the challenge or exploring Verilog independently, these curated resources can help deepen your understanding:
+
+- [ChipVerify Verilog Tutorials](https://www.chipverify.com/verilog): Comprehensive, example-driven explanations of Verilog syntax and design constructs.
+- [HDLBits Practice Problems](https://hdlbits.01xz.net/wiki/Main_Page): Interactive exercises that reinforce combinational and sequential logic design concepts.
+- [Cliff Cummings' Verilog Papers](https://www.sunburst-design.com/papers/): In-depth application notes covering synthesis guidelines, verification techniques, and best practices.
+- [FPGA4Student Verilog Projects](https://www.fpga4student.com/p/verilog-projects.html): Practical project ideas with source code to bridge theory and hands-on implementation.
+
 <p align="center">
   Happy Verilog coding! 💻
 </p>
